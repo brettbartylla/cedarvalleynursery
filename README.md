@@ -2,7 +2,7 @@
 
 [cedarvalleynursery](https://www.cedarvalleynursery.com)
 
-Primarily efactoring this codebase. There is nothing exciting or special going on here.
+Primarily refactoring this codebase. There is nothing exciting or special going on here.
 
 **Tech:**
 
