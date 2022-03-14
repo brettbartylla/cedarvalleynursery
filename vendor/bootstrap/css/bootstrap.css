@@ -59,7 +59,7 @@ body {
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
-  --blue: #007bff;
+  --blue: #3344dd;
   --indigo: #6610f2;
   --purple: #6f42c1;
   --pink: #e83e8c;
@@ -72,7 +72,7 @@ body {
   --white: #fff;
   --gray: #6c757d;
   --gray-dark: #343a40;
-  --primary: #007bff;
+  --primary: #3344dd;
   --secondary: #6c757d;
   --success: #28a745;
   --info: #17a2b8;
@@ -215,7 +215,7 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #3344dd;
   text-decoration: none;
   background-color: transparent;
   -webkit-text-decoration-skip: objects;
@@ -2557,7 +2557,7 @@ fieldset:disabled a.btn {
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
+  background-color: #3344dd;
   border-color: #007bff;
 }
 
@@ -2573,7 +2573,7 @@ fieldset:disabled a.btn {
 
 .btn-primary.disabled, .btn-primary:disabled {
   color: #fff;
-  background-color: #007bff;
+  background-color: #3344dd;
   border-color: #007bff;
 }
 
@@ -2828,7 +2828,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-  color: #007bff;
+  color: #3344dd;
   background-color: transparent;
   background-image: none;
   border-color: #007bff;
@@ -2845,7 +2845,7 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary.disabled, .btn-outline-primary:disabled {
-  color: #007bff;
+  color: #3344dd;
   background-color: transparent;
 }
 
@@ -3101,7 +3101,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
   font-weight: 400;
-  color: #007bff;
+  color: #3344dd;
   background-color: transparent;
 }
 
@@ -4788,7 +4788,7 @@ tbody.collapse.show {
   padding: 0.5rem 0.75rem;
   margin-left: -1px;
   line-height: 1.25;
-  color: #007bff;
+  color: #3344dd;
   background-color: #fff;
   border: 1px solid #dee2e6;
 }
@@ -8879,7 +8879,7 @@ button.bg-dark:focus {
 }
 
 .text-primary {
-  color: #007bff !important;
+  color: #3344dd !important;
 }
 
 a.text-primary:hover, a.text-primary:focus {
